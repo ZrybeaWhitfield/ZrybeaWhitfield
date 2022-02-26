@@ -1,4 +1,4 @@
-### Hello! My name is Zrybea and I am a Philadelphia, PA based, Software Engineer. I am proficient in HTML, CSS, JavaScript, NodeJs, and MongoDB. My goal is to write clean, dry, accessible code so that all users can have a great experience.
+### Hello! My name is Zrybea and I am a Software Development Engineer. Fullstack JS for fun (MERN stack is where it's at) but Java and Python for when things get serious 😏. My goal is to write clean, DRY, accessible code so that all users can have a great experience.
 
 Prior to coding, I have worked as a behavioral health professional, and served as a medic in the United States Army Reserve. I love to talk about my journey so ask away!
 
