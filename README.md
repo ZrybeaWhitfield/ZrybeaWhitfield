@@ -1,4 +1,4 @@
-### Hello! My name is Zrybea and I am a Software Engineer with over two years of experience. I code in JavaScript for fun (MERN stack is where it's at!) but Java and Python for when things get serious 😏. I also have experience building serverless cloud applications using the AWS cloud development kit. 
+### Hello, my name is Zrybea! I am a Software Engineer with over two years of experience building full-stack applications. I code in JavaScript for fun (MERN stack is where it's at!) but Java and Python for when things get serious 😏. I also have experience building serverless cloud applications using the AWS cloud development kit. 
 
 Before I was a dev, I worked as a behavioral health professional and served as a medic in the United States Army Reserve. I love to talk about my journey so ask away!
 
